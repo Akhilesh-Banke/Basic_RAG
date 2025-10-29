@@ -30,7 +30,7 @@ In this project, I’ll build a **RAG pipeline from scratch** with no external A
 ## 🧩 RAG Architecture
 
 <p align="center">
-  <img src="rag_diagram.png" alt="RAG Pipeline" width="700"/>
+  <img src="RAG.drawio.png" alt="RAG Pipeline" width="700"/>
 </p>
 
 > **Retrieve → Augment → Generate**
