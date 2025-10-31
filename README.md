@@ -2,9 +2,6 @@
 > Built my own **Retrieval Augmented Generation (RAG)** system using open-source tools, no APIs, no black boxes, 100% free.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akhilesh-Banke/Basic_RAG/blob/main/First_RAG.ipynb)
-![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
 
 ---
 
