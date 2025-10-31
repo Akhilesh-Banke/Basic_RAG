@@ -1,4 +1,4 @@
-# 🧠 My First RAG System — From Scratch
+#  My First RAG System — From Scratch
 > Built my own **Retrieval Augmented Generation (RAG)** system using open-source tools, no APIs, no black boxes, 100% free.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<Akhilesh-Banke>/Basic_rag/blob/main/First_RAG.ipynb)
