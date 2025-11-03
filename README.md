@@ -44,11 +44,11 @@ my-first-rag/
 ├── data/
 │   └── my_knowledge.txt       # Custom knowledge base
 │
-├── rag_pipeline.py            # Modular RAG implementation
 ├── rag_system.ipynb           # Interactive Colab/Notebook demo
 ├── rag_diagram.png            # (Optional) Architecture diagram
-├── requirements.txt
-└── README.md
+├── requirements.txt           # All dependencies
+└── README.md                  # Project documentation
+
 
 ##  Features
 
