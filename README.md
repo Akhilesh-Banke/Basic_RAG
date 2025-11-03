@@ -32,20 +32,32 @@ In this project, I’ll build a **RAG pipeline from scratch** with no external A
 
 > **Retrieve → Augment → Generate**
 >
-> 1️⃣ *Retrieve:* Find relevant chunks using FAISS  
-> 2️⃣ *Augment:* Combine them with the user’s query  
-> 3️⃣ *Generate:* Produce a grounded answer using FLAN-T5  
+> 1. *Retrieve:* Find relevant chunks using FAISS  
+> 2. *Augment:* Combine them with the user’s query  
+> 3. *Generate:* Produce a grounded answer using FLAN-T5  
 
 ---
 
+## Project Structure
+my-first-rag/
+│
+├── data/
+│   └── my_knowledge.txt       # Custom knowledge base
+│
+├── rag_pipeline.py            # Modular RAG implementation
+├── rag_system.ipynb           # Interactive Colab/Notebook demo
+├── rag_diagram.png            # (Optional) Architecture diagram
+├── requirements.txt
+└── README.md
+
 ##  Features
 
-✅ 100% local — no API calls  
-✅ No hallucinations (answers only from context)  
-✅ Lightweight & free models  
-✅ Modular Python class for re-use  
-✅ Notebook demo + CLI interaction  
-✅ Easy to extend (PDFs, multi-doc, Streamlit UI)
+1. 100% local — no API calls  
+2. No hallucinations (answers only from context)  
+3. Lightweight & free models  
+4. Modular Python class for re-use  
+5. Notebook demo + CLI interaction  
+6. Easy to extend (PDFs, multi-doc, Streamlit UI)
 
 ---
 
