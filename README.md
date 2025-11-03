@@ -38,16 +38,9 @@ In this project, I’ll build a **RAG pipeline from scratch** with no external A
 
 ---
 
-## Project Structure
-my-first-rag/
-│
-├── data/
-│   └── my_knowledge.txt       # Custom knowledge base
-│
-├── rag_system.ipynb           # Interactive Colab/Notebook demo
-├── rag_diagram.png            # (Optional) Architecture diagram
-├── requirements.txt           # All dependencies
-└── README.md                  # Project documentation
+## Repository Layout
+
+The project is organized for clarity and modularity — making it easy to run the notebook, extend the code, or integrate new data sources.
 
 
 ##  Features
